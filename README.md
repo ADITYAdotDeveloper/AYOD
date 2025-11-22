@@ -1,42 +1,13 @@
-# AYOD
+# AYOD - Emotional Companion
 
-An AI smart watch constantly listens to your body in the background — heart rate, skin response, respiration count, spO2, and movements — to understand how you feel.
+AYOD is an AI companion designed to listen to your body's rhythm and support your emotional well-being. It serves as a sophisticated tool to help users navigate their emotional landscape with empathy and understanding.
 
-It’s like the default state of the companion, always active, always learning your emotional rhythm.
+## Features
+- **Emotional Support**: AI-driven interactions tailored to your emotional state.
+- **Rhythm Monitoring**: Listens to your body's rhythm to provide personalized support.
+- **Waitlist**: Join the waitlist to be among the first to experience AYOD.
 
-## Personal Baseline
-
-AYOD builds a personal baseline and senses when something changes:
-
-* you’re stressed
-* you’re overwhelmed
-* you’re unusually calm
-* you’re excited
-* you’re anxious
-* you’re emotionally heavy
-
-This is the foundation of everything else.
-
-## Instant Compassion
-
-Whenever AYOD senses a meaningful emotional change, it responds with instant compassion — softly and gently. Like:
-
-> “You seem overwhelmed — take a breath with me?”
-
-And if you choose to talk, AYOD listens.
-
-It remembers your story, reflects your feelings, and stays with you like a quiet emotional presence — always understanding, never judging.
-
-## Agentic Mode
-
-There is also an Agentic Mode — an AI-driven assistant (powered by LLMs) that you can activate whenever you need deeper thinking, creativity, planning, or productivity.
-
-When asked, AYOD shifts into this mode to help you brainstorm, write, organize, or create.
-
-## Privacy
-
-Your emotional data is private. It is never shared with any third party.
-
-## The Vision
-
-Ultimately, AYOD is one single, seamless emotional companion — tracking how you feel, caring for you when you need support, listening like a friend, and becoming your creative assistant exactly when you need it.
+## Getting Started
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm run dev` to start the development server.
